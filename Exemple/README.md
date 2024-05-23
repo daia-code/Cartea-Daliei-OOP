@@ -1,1 +1,1 @@
-Alte exemple utilizate pentru programarea avansată în python
+#Alte exemple utilizate pentru programarea avansată în python
