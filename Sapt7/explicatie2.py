@@ -1,3 +1,4 @@
+'''
 CONCEPT : shape
 
 EXPLICAȚIE : Ne oferă posibilitatea să modificăm cursorul cu altă formă la alegere dintre:
@@ -14,6 +15,7 @@ EXPLICAȚIE : Ne oferă posibilitatea să modificăm cursorul cu altă formă la
 
     clasic('classic' - tot sageata)
 
+'''
 
 # EXEMPLU COD : 
 
